@@ -1,4 +1,4 @@
 # needle_js
-JavaScript port of EMBOSS needle
+JavaScript implementation heavily based on EMBOSS NUCLEUS library.
 
-License: GPL
+License: LGPL
